@@ -1,6 +1,5 @@
 # homework5
-1-Appium'da test yazılıp, bu testler için try catch kullanılarak FileNotFundException, NullPointerException vb. exceptionlar için exception handling yapılacak.<br>
--Extra Puan için dileyenler Capability Check yapabilir. (Gerçekten json dosyasından aldığım cihazı mı test ediyorum?)<br>
-2-Contact Manager uygulamasının senaryoları yazılacak. https://github.com/movilidadagil/ContactManagerAPIProject <br>
-3-Charles Proxy araştırılacak. (Optional-İsteyen araştırabilir, zorunlu değil)<br>
-Not: Bu ödevde README.md dosyalarınızın özenli olmasını bekliyor olacağız.
+In this project, test cases were written with testNG to test the interface and functionality of the Contact Manager android application. All written test codes are in the ContantManagerTestNg class.
+
+For the application to work, we need  to downland the project apk to your computer and specify the apk file path in the appium.
+In addition, for the application to work more efficiently, it's necessary to have a computer with minimum of 8gb ram.
